@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **basecamp reloaded**
 
-- ⚡ Fun fact **My favourite animal is a otter because they're so fluffy and aquatic masters.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camillalourenco&show_icons=true&locale=en&layout=compact" alt="camillalourenco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camillalourenco&show_icons=true&locale=en" alt="camillalourenco" /></p>
-
+- ⚡ Fun fact **My favourite animal is a otter because they're so fluffy and aquatic masters.**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillalourenco&" alt="camillalourenco" /></p>
