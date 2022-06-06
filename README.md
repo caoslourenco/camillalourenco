@@ -26,7 +26,7 @@ hi, i'm [camilla ](https://abhishknads.me/), a software engineer student from br
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3460/screenshots/3581472/media/4f04459913eeb7cd9752e42f057f5553.gif" width="400" height="220" />
+  <img align="right" alt="GIF" src="<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>" width="400" height="220" />
   
 - 💼 any freelance work? do reach, [email](mailto:mscamillalourenco@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
