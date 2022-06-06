@@ -11,19 +11,22 @@ I have learned a lot from the open source community and love how collaboration a
 - 💼 any freelance work? do reach, [email](mailto:mscamillalourenco@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-  ## 
-  
+##
+
+ 
+ 
 <div> 
-  <a href="https://www.linkedin.com/in/camilla-lourenco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   <a href="https://www.linkedin.com/in/camilla-lourenco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/camilla.lourenco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://discord.com/users/clourenc|CamillaLourenco#5020"><img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href = "https://discord.com/users/CamillaLourenco#5020"><img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   
-  ##
+  #
 
   <a href="https://github.com/camillalourenco">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=camillalourenco&show_icons=true&theme=gotham&border_radius=35%"/>
-
-
+     
+ 
+    
 <h5 align="left">Support:</h5>
 <p><a href="https://www.buymeacoffee.com/camillalourenco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="camillalourenco" /></a></p><br><br>
 
