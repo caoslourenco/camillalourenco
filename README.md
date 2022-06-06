@@ -76,12 +76,11 @@ I have learned a lot from the open source community and love how collaboration a
 
   <a href="https://github.com/camillalourenco">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=camillalourenco&show_icons=true&theme=github_dark&border_radius=8%"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillalourenco&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/camillalourenco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="camillalourenco" /></a></p><br><br>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
