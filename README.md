@@ -80,7 +80,43 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+-------------------------------------------
+  
+  ## Hello, i'm Camilla! <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Camilla Lourenco">
+  
+#### hello, i'm Camilla, a software engineering student from brazil. My passion for software lies in developing ideas and making them come true with elegant interfaces. i attach great importance to the experience, architecture and code quality of the things i develop.
 
+I have learned a lot from the open source community and love how collaboration and knowledge sharing works through open source.
+
+  ## 
+  
+<div> 
+  <a href="https://www.linkedin.com/in/camillalourenco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/camilla.lourenco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/camillalourenco/projects" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" height="28" width="80" target="_blank"></a>  
+  <a href = "https://discord.com/users/clourenc|CamillaLourenco#5020"><img width="100" height="28" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  
+  ##
+
+  <a href="https://github.com/camillalourenco">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=camillalourenco&show_icons=true&theme=github_dark&border_radius=8%"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillalourenco&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
+</div>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="camilla-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="camilla-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="camilla-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
+  <img align="center" alt="camilla-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="camilla-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="camilla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="camilla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="camilla-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="camilla-xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+  <img align="center" alt="camilla-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="camilla-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="camilla-c" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />   
+</div>
 
 
 
