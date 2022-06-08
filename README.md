@@ -32,7 +32,7 @@ I have learned a lot from the open source community and love how collaboration a
 
     
 <h5 align="left">Support:</h5>
-<p><a href="https://www.buymeacoffee.com/camillalourenco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="camillalourenco" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/camillalourenco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="camillalourenco" /></a></p><br><br>
 
  -
 
