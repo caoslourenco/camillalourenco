@@ -27,7 +27,7 @@ I have learned a lot from the open source community and love how collaboration a
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=camillalourenco&show_icons=true&theme=gotham&border_radius=35%"/>
      
   <a href="https://github.com/JaeSeoKim/badge42">
-  <img align="right" height="180em" src="https://badge42.vercel.app/api/v2/cl44ys7sc00310al9y8zqnige/stats?cursusId=21&coalitionId=undefined" alt="clourenc's 42 stats" /></a>
+  <img align="right" height="180em" src="https://badge42.vercel.app/api/v2/cl44ys7sc00310al9y8zqnige/stats?cursusId=21&coalitionId=undefined"alt="clourenc's 42 stats"/></a>
 
 
     
