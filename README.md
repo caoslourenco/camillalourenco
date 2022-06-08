@@ -26,14 +26,17 @@ I have learned a lot from the open source community and love how collaboration a
   <a href="https://github.com/camillalourenco">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=camillalourenco&show_icons=true&theme=gotham&border_radius=35%"/>
      
- 
+  <a href="https://github.com/JaeSeoKim/badge42">
+  <img align="right" height="180em" src="https://badge42.vercel.app/api/v2/cl44ys7sc00310al9y8zqnige/stats?cursusId=21&coalitionId=undefined" alt="clourenc's 42 stats" /></a>
+
+
     
 <h5 align="left">Support:</h5>
 <p><a href="https://www.buymeacoffee.com/camillalourenco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="camillalourenco" /></a></p><br><br>
 
  -
 
-<p align="left"><img title="An animated color joke." src="https://readme-typing-svg.herokuapp.com/?width=500&height=30&font=Roboto&color=adbac7&vCenter=true&size=16&duration=4000&lines=%E2%80%A2+If+you+like%2C+you+can+buy+me+a+coffee.;%E2%80%A2+Oh%2C+it+can+be+tea%2C+too.;%E2%80%A2+Oh%2C+no%2C+I+do+not+like+that.;%E2%80%A2+Could+be+a+hot+chocolate.;%E2%80%A2+Oh%2C+please!;%E2%80%A2+🥺👉👈...">
+<p align="left"><img title="An animated color joke." src="https://readme-typing-svg.herokuapp.com/?width=500&height=30&font=Roboto&color=adbac7&vCenter=true&size=16&duration=4000&lines=%E2%80%A2+If+you+like%2C+you+can+buy+me+a+coffee.;%E2%80%A2+Oh%2C+it+can+be+tea%2C+too.;%E2%80%A2+Oh%2C+no%2C+I+do+not+like+that.;%E2%80%A2+Could+be+a+hot+chocolate.;%E2%80%A2+🥺%2C+please!;%E2%80%A2+🥺👉👈...">
 
 
 </details>
