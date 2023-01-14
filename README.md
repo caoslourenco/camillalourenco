@@ -5,18 +5,14 @@
   ## Hello, i'm Camilla! <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Camilla Lourenco">
   
 ####
-I'm a software engineering student from Brazil. 
-My passion for software lies in developing ideas and 
-bringing them to life with amazing interfaces. 
-I place great importance on user experience, 
-architecture, and code quality in the projects 
-I develop. I have learned a lot from the open-source 
-community and love how collaboration and knowledge 
-sharing works through open-source.
+<p align="left">I'm a software engineering student from Brazil. 
+</p>My passion for software development lies in bringing innovative ideas to life through the creation of visually stunning and user-friendly interfaces. 
+<p align="left"> I place a high importance on user experience, architecture, and code qualityin all the projects I develop.<p align="left"> I have gained valuable knowledge and experience through my participation in the open-source community, and I am passionate about the power of collaboration and knowledge sharing in the software development field.<p align="left">
+
 ####
 
-- 💼 any freelance work? do reach, [email](mailto:mscamillalourenco@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼  If you are in need of freelance work, please don't hesitate to contact me via  [email](mailto:mscamillalourenco@gmail.com) :)
+- 💬 I am always happy to help and answer any questions you may have.;
 
 ##
 
