@@ -5,7 +5,8 @@
   ## Hello, i'm Camilla! <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Camilla Lourenco">
 
 <div>
-  <p>I'm a software engineering student from Brazil. My passion for software development lies in bringing innovative ideas to life through the creation of visually stunning and user-friendly interfaces. I place a high importance on user experience, architecture, and code quality in all the projects I develop.</p>
+  <p>I'm a software engineering student from Brazil.</p>
+    My passion for software development lies in bringing innovative ideas to life through the creation of visually stunning and user-friendly interfaces. I place a high importance on user experience, architecture, and code quality in all the projects I develop.</p>
   <p>I have gained valuable knowledge and experience through my participation in the open-source community, and I am passionate about the power of collaboration and knowledge sharing in the software development field.</p>
 </div>
 
