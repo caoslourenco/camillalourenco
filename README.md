@@ -55,7 +55,75 @@ title="An animated color joke, showing different drink options, and a cute emoti
 </p>
 --------------
 
+
+
+I'm working on it....
+
+
+
+
+
+
 </details>
 <!-- Herobrine: I'm still here, boy. -->
+    
+    
+    
+    <h2 >Hello 👋</h2> 
+ 
+<p><em>Software Engineering Student from <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
+  
+  🙋‍♀️  About Me
+   
+  * 💻 I'm currently learning about C for the projects done at School 42.
+  * always learning something new
+  * -----
+  *  Working  game
+  * 🤟
+
+  * 📚 reading a book
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="clourenc" /> </p>
+
+  ##    
+  
+<div align="center">  
+  
+<p align="center">
+ <h2>42's Projects Already Graded </h2>
+ <p>PHASE 1</p>
+ <a href="https://github.com/cc/libft" target="_blank">  <img src="./src/libft1.png" height="100"></a>
+<a href="https://github.com/cc/get_next_line" target="_blank"> <img src="./src/gnl.png" height="100"></a>
+<a href="https://github.com/cc/ft_printf" target="_blank"> <img src="./src/ft_printfe.png" height="100"></a>
+<a href="https://github.com/cc/Born2beRoot" target="_blank"> <img src="./src/born2beroote.png" height="100"></a>
+<a href="https://github.com/cc/so_long" target="_blank"> <img src="./src/so_longm.png" height="100"></a>
+<a href="https://github.com/cc/minitalk" target="_blank"> <img src="./src/minitalkm.png" height="100"></a>
+ <p>PHASE 2</p>
+<a href="https://github.com/cc/push_swap" target="_blank">  <img src="./src/push.png" height="100"></a>
+<a href="https://github.com/cc/minishell" target="_blank"> <img src="./src/minishell.png" height="100"></a>
+<a href="https://github.com/cc/philo" target="_blank"> <img src="/src/philos.png" height="100"></a>
+<a href="https://github.com/cc/NetPractice" target="_blank"> <img src="./src/net.png" height="100"></a>
+<a href="https://github.com/cc/cub3D" target="_blank"> <img src="./src/cub3d.png" height="100"></a>
+</p>
+ </div>
+  
+ 
+  <div align="center">  
+ 
+------  
+  
+<h3 align="center">Connect with me:</h3>
+  
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CamillaLourenco)](https://github.com/CamillaLourenco)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clourenc@student.42sp.org)](mailto:clourenc@student.42sp.org)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-lourenco//)](https://www.linkedin.com/in/camilla-lourenco)<br>
+  
+  
+  <a href="https://github.com/CamillaLourenco" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamillaLourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaLourenco&layout=compact&langs_count=7&theme=dark"/>
+
+  
+ 
 
 
